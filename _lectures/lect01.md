@@ -1,0 +1,39 @@
+---
+num: "lect01"
+lecture_date: 2018-01-16
+desc: "Course overview, a gentle intro to C++ - Standard I/O"
+ready: true
+pdfurl: /lectures/CS16_Lecture1.pdf
+annotatedpdfurl: /lectures/CS16_Lecture1_ann.pdf
+annotatedready: true
+---
+# Code from lecture
+
+[https://github.com/ucsb-cs16-sp17/lectures/tree/master/0403](https://github.com/ucsb-cs16-sp17/lectures/tree/master/0403)
+
+# Topics
+
+## Getting our feet wet
+* What will you learn in CS 16?
+* Getting to know your peers, the instructor and staff!
+* We are running a new pilot program where undergraduate tutors will be assisting with instructional activities - we will introduce our tutors, be sure to reach out to them in labs and sections
+
+## Hardware abstractions
+* The modern digital computer - stored program model and the Von Neumann architecture, why are we talking about architecture?
+* The hardware/software interface
+
+## Getting set up
+* Remote login to the CSIL servers
+* Finding your way around with basic unix commands - mkdir, ls, cp, mv, rm (use
+  with caution)
+* Choosing an editor (vim or emacs)- may the best editor win!
+
+## C++ basics - main, std i/o, if-else, variables
+* Basic elements of a C++ program introduced via the "hello world" program and the game of fizzbuzz!
+    * the main function
+    * namepsaces and include directives
+    * commenting your code
+    * standard input, standard output and standard error with cin, cout, cerr
+* Unlike Python, you MUST "declare" variables on first appearance in any C++ program. We'll discuss what this means.
+* Compiling with g++
+* Running your program
