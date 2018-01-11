@@ -6,40 +6,30 @@ desc: "Getting started with C++ functions and github's web interface"
 assigned: 2018-01-16 09:00:00.00-8
 due: 2018-01-22 11:59:00.00-8
 ---
-# Activities to complete prior to coming to the lab
+# Prior to attending the lab
 
-1. Note the meeting location for this lab: For this lab and this lab alone, we will meet in the lawns in front of the Physical Sciences - North building, at the assigned section time. Your mentor will be waiting for you there. After a brief "getting to know you" game, you will be escorted to the Phelps lab- 3525. For this lab along, you may stay in the Phelps labs for 10 minutes after the hour to make progress on your lab.
+* Check out your [mentor group](/info/mentor_groups/)
 
-	* Check out your [mentor group](/info/mentor_groups/)
-	* Note our exact meeting location: <img src="meetingLocation.png" width="400" alt="Meeting location" />
-
-2. Read the lab introduction (see next section)
-
-3. Complete step 1 of the lab (create a college of engineering account and a github account if you don't have one already, and sign up to be added to our github organization)
 
 # Introduction
 
-Your first lab for this week is an introduction to your mentor group and programming on CSIL and in the Computer Science (Phelps) lab.
+Your first lab for this week is an introduction to your mentor group and programming on CSIL and in the Computer Science (Phelps) lab. The intended outcomes are:
 
-You will start with activities outside the lab (out in the lawns). The intended of those activities are:
-
-* Getting to know your peers and mentors (starting with their names)
-* Your pair programming partner is listed on the [mentor group page](/info/mentor_groups/). Your partner will work with on subsequent labs. Find your partner in your section. By the end of section decide on two to four hours to meet during the week to work on your programming assignments. Try to schedule your meetings during the CS16 open lab hours. You don't have to do this immediately. You have until the end of the lab to find a common schedule.
-
-Proceed to complete the rest of the lab. The intended outcomes are:
-
-* Knowing how to open a terminal on the computers in Phelps lab
-* Learning some basic unix commands to navigate the linux file system
-* Learning the basics of an editor (vim or emacs)
-* Writing your first C++ program that will print a specific text out on your computer display.
+* Getting to know your mentor and pair programming partner
+* Writing a simple C++ program
 * Learning about github's web interface
-* Learning how to remotely log into the CSIL servers and what that means
 
-Before leaving the lab you must get the following things checked off by your mentor:
+This lab must be completed INDIVIDUALLY. In the subsequent labs you are encouraged to work with your programming partner.
 
-* Sign the electronic attendance sheet (your mentor should do this on your behalf)
-* Make progress on your C++ program
-* Create a github account and sign into our class github organization.
+## Get to know your mentor and programming partner:
+
+* Take note of your course mentor and pair programming partner at  [mentor group](/info/mentor_groups/). Get to know your mentor:
+
+	* Read your [mentor's profile] (/info/staff/)
+	* Meet them during the open lab hours on Thursday or Friday. The exact time and location can be found at [lab and office hours schedule](/info/schedule/)
+	* Contact your mentor via Piazza or email to confirm your meeting in Week1. During your meeting, set up a time when you can regularly meet for the remainder of the quarter. Your mentor will send you feedback on your work to your umail account. Make sure your line of communication with your mentor is working and talk about any preferences you may have. Your mentor will be your first point of contact for the quarter!
+
+* Connect with your programming partner via email or in person and determine times when you can work together outside the prescribed lab hours. You will need to set aside 2 to 3 hours each week to work on assignments. Get your partner's contact: phone number or email.
 
 This lab must be completed INDIVIDUALLY. In the subsequent labs you are encouraged to work with a programming partner.
 
@@ -63,13 +53,11 @@ You may now go ahead and complete the following steps:
 
 To log in to the machines in the Computer Science labs, or to connect remotely, you will need a **College of Engineering account**.
 
-At this point, please go to [THIS LINK](https://ucsb.box.com/s/px12flf8g41m8g0gq4n6zqbbc9phkfrs) and view the important presentation from Engineering Computing Infrastructure on the College of Engineering accounts and computer labs.
-
 You can create an account online at <a href="https://accounts.engr.ucsb.edu/create" target="_blank">https://accounts.engr.ucsb.edu/create</a>.
 
 If you are enrolled in <i>any</i> CoE course this quarter (including CS16), you can create your account immediately. If you are not, you will need to contact the ECI Help Desk at <a href="mailto:help@engineering.ucsb.edu">help@engineering.ucsb.edu</a>.
 
-### Create a github account
+### Step 1: Create a github account
 
 Sign up for a free account on [Github](https://github.com/). Use your official ucsb email when signing up. Sign into [Github](https://github.com/) with your github account.
 
@@ -77,15 +65,15 @@ Sign up for a free account on [Github](https://github.com/). Use your official u
 
 To join our github organization, follow these easy steps :
 
-1. click on this link:[ https://ucsb-cs16-s17-signup.herokuapp.com/]( https://ucsb-cs16-s17-signup.herokuapp.com/). You should see the following welcome message (with the org name as ucsb-cs16-sp17), click on the blue "sign in with Github" button:
+* click on this link:[ https://ucsb-cs16-w18-signup.herokuapp.com/]( https://ucsb-cs16-w18-signup.herokuapp.com/). You should see the following welcome message (with the org name as ucsb-cs16-w18), click on the blue "sign in with Github" button:
 
 ![welcome](/lab/lab00/enter-org/pic1.png){:height="500px"}
 
-2. The next screen asks you to authorize our app to add you to our class organization. Click on the green "authorize application" button.
+* The next screen asks you to authorize our app to add you to our class organization. Click on the green "authorize application" button.
 
 ![authorize](/lab/lab00/enter-org/pic2.png){:height="500px"}
 
-3. Enter your github and you should see the following screen that shows you were successfully added to our class organization:
+ Enter your github and you should see the following screen that shows you were successfully added to our class organization:
 
 ![success](/lab/lab00/enter-org/pic4.png){:height="500px"}
 
@@ -378,7 +366,7 @@ This assignment only needs you to write a program that prints out two lines on t
 
 ```
 Hello, world!
-CS16 Spring 2017.
+I am ready for CS16!
 ```
 
 Start with a "skeleton program" (or template) that contains the necessary structure but that does not do anything:
@@ -464,7 +452,7 @@ Next, you need to join the CS16 course. Look for the "Join Class" link at the to
 
 <img src="submit-topbar.png" width="542" alt="submit.cs Top Bar" />
 
-Once you see the list of all courses, click on the <b>"Join CS16_s17_mirza"</b> button.
+Once you see the list of all courses, click on the <b>"Join CS16_w18_mirza"</b> button.
 
 You should then see CS16 appear on your homepage when logging in to the submit.cs system. Click on the course now.
 
@@ -482,7 +470,7 @@ Once you submit, you should see a page detailing your submission. The system wil
 
 You can <em>alternatively</em> submit your code from the command line (i.e. in the terminal) on any CS machine, including the Phelps lab machines or the CSIL server. You can also use this method when logged in remotely. To submit the the <b>hello.cpp</b> file to this assignment by running the command:
 
-	$ ~submit/submit -p 660 hello.cpp
+	$ ~submit/submit -p 919 hello.cpp
 
 The program will ask you to login <b>with your submit.cs username and password</b>. The password will not be printed to the terminal, but what you type will be used. It will also offer the option to save your credentials, so that you do not have login next time you submit. You may choose to do this or not. After the submission succeeds, you should see the program output something like:
 
@@ -494,6 +482,7 @@ You can copy this URL and paste into a Web browser to reach the same submission 
 
 ## Step 8: Check Submission Results <a name="step8"></a>
 
+YOU MUST ALWAYS CHECK THAT YOUR FILE WAS CORRECTLY UPLOADED
 After the 1 minute delay, the submit system will show your score and give you feedback on your submission. <em>Refresh the webpage after a minute to see this information.</em> This usually takes one of three forms:
 
 <p>A correct submission with a score of 100. This means that your program passed all the tests for this assignment. Once you get to this point, you are finished with the assignment and will receive full credit. This case will look like this:</p>
@@ -514,18 +503,18 @@ After the 1 minute delay, the submit system will show your score and give you fe
 
 If you have made it to this step, then you have successfully created a C++ program, tested it on a remote server (csil.cs.ucsb.edu) and made a successful submission. We would however like you to do one more step to get familiarized with git and github. Here is some motivation: When developing large programs, it is very useful to save working versions of your code that you can always revert to. Trying to do this manually often leads to total chaos!! That's why professional programmers use some kind of version control system (VCS). We will use a popular VCS called Git. With Git all versions of your code will be available to you and your collaborators (in later labs this would be your pair-programming partner) anytime, anywhere! It will also help the course staff view your progress as you work on the assignments.
 
-1. Before we begin, read this article to get an overview of git: [https://ucsb-cs56-pconrad.github.io/topics/git_overview/](https://ucsb-cs56-pconrad.github.io/topics/git_overview/)
+* Before we begin, read this article to get an overview of git: [https://ucsb-cs56-pconrad.github.io/topics/git_overview/](https://ucsb-cs56-pconrad.github.io/topics/git_overview/)
 
-2. You will now create a git repo. The concept of a repo was explained in the article that you just read. New projects always start with this step. Since Github promotes "open source" projects, repos created under your default github account are *public*. This means that they are visible to everyone on the internet. However, for this class your assignments have to be "closed source", and not open to your classmates and others on the internet. This requires that you create *private* repos. These are repos that are only visible to you, your pair-partner and the instructional staff. You can only create private repos within our class organization on github: ucsb-cs16-sp17. So, the next step is to join our class organization.
+* You will now create a git repo. The concept of a repo was explained in the article that you just read. New projects always start with this step. Since Github promotes "open source" projects, repos created under your default github account are *public*. This means that they are visible to everyone on the internet. However, for this class your assignments have to be "closed source", and not open to your classmates and others on the internet. This requires that you create *private* repos. These are repos that are only visible to you, your pair-partner and the instructional staff. You can only create private repos within our class organization on github: ucsb-cs16-w18. So, the next step is to join our class organization.
 
-3. Read this article on [creating a github repo under an organization](https://ucsb-cs16.github.io/topics/github_com_create_private_repo_under_org/). Open a browser and navigate to our class organization on github: [ucsb-cs16-sp17](https://github.com/orgs/ucsb-cs16-sp17/dashboard). Click on the green button that says "New repository", and follow the steps from the ["creating a github repo under an organization"](https://ucsb-cs16.github.io/topics/github_com_create_private_repo_under_org/) article, to create a PRIVATE repo containing only a README.md and a .gitignore. See screenshot below:
+* Read this article on [creating a github repo under an organization](https://ucsb-cs16.github.io/topics/github_com_create_private_repo_under_org/). Open a browser and navigate to our class organization on github: [ucsb-cs16-sp17](https://github.com/orgs/ucsb-cs16-sp17/dashboard). Click on the green button that says "New repository", and follow the steps from the ["creating a github repo under an organization"](https://ucsb-cs16.github.io/topics/github_com_create_private_repo_under_org/) article, to create a PRIVATE repo containing only a README.md and a .gitignore. See screenshot below:
 
 ![new-repo](/lab/lab00/enter-org/pic5.png){:height="500px"}
 
 
 Your repo name should be lab00_your-github-username. For example if your github username is jgaucho, you should name your repo as lab00_jgaucho. Make sure you select the PRIVATE option when creating your repo.
 
-4. Check to see if you have the files: README.txt and .gitignore in your repo. If you don't see these files, contact an instructor or ask for help on Piazza. To learn more about the .gitignore, read this article: [About gitignore](https://ucsb-cs56-pconrad.github.io/topics/git_gitignore/)
+* Check to see if you have the files: README.txt and .gitignore in your repo. If you don't see these files, contact an instructor or ask for help on Piazza. To learn more about the .gitignore, read this article: [About gitignore](https://ucsb-cs56-pconrad.github.io/topics/git_gitignore/)
 
 5. Use github's web interface to edit the README file. In the README, add your and your partners name and perm number. If you don't know how to do this yet, wait until I demonstrate it in the next lecture. You may proceed to the next step
 
@@ -537,7 +526,7 @@ Your repo name should be lab00_your-github-username. For example if your github 
 
 ![git-upload-hello](/lab/lab00/upload-hello-cpp.png){:height="500px"}
 
-7. Now either drag and drop the "hello.cpp" file from your machine or use the "Choose your files" option to browse through your local directory and upload the file. Then press the green "Commit new files" button. Navigate back to your repo to see that the hello.cpp file is correctly listed along with the other files. Click on it and you should see your code on github's web interface. Continue to explore the web interface of your github repo. For example, try clicking on the "commits" link in your repo. What does that show you and what do you think it means?
+* Now either drag and drop the "hello.cpp" file from your machine or use the "Choose your files" option to browse through your local directory and upload the file. Then press the green "Commit new files" button. Navigate back to your repo to see that the hello.cpp file is correctly listed along with the other files. Click on it and you should see your code on github's web interface. Continue to explore the web interface of your github repo. For example, try clicking on the "commits" link in your repo. What does that show you and what do you think it means?
 
 Congratulations on completing your introductory exercise to github. We will continue to explore git in the subsequent assignments.
 
