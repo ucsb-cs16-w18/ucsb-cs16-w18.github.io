@@ -6,10 +6,6 @@ desc: "Getting started with C++ functions and github's web interface"
 assigned: 2018-01-16 09:00:00.00-8
 due: 2018-01-22 11:59:00.00-8
 ---
-# Prior to attending the lab
-
-* Check out your [mentor group](/info/mentor_groups/)
-
 
 # Introduction
 
