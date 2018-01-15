@@ -21,7 +21,7 @@ This lab must be completed INDIVIDUALLY. In the subsequent labs you are encourag
 
 * Take note of your course mentor and pair programming partner at  [mentor group](/info/mentor_groups/). Get to know your mentor:
 
-	* Meet them during the open lab hours on Thursday or Friday. The exact time and location can be found at [lab and office hours schedule](/info/schedule/)
+	* Meet them during the open lab hours on Monday or Friday. The exact time and location can be found at [lab and office hours schedule](/info/schedule/)
 	* Contact your mentor via Piazza or email to confirm your meeting in Week1. During your meeting, set up a time when you can regularly meet for the remainder of the quarter. Your mentor will send you feedback on your work to your umail account. Make sure your line of communication with your mentor is working and talk about any preferences you may have. Your mentor will be your first point of contact for the quarter!
 
 * Connect with your programming partner via email or in person and determine times when you can work together outside the prescribed lab hours. You will need to set aside 2 to 3 hours each week to work on assignments. Get your partner's contact: phone number or email.
