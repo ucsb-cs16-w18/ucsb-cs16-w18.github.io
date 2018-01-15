@@ -10,11 +10,10 @@ ready: true
 
 ## Grade breakup by evaluation component
 * Lecture and section participation: 2%
-* Homeworks/Quizzes: 13%
-* Lab assignments: 35%
-* Midterm Exam: 15%
-* Lab Exam: 15%
-* Final Examination : 20%
+* Homeworks/Quizzes: 8%
+* Lab assignments: 40%
+* Midterm Exam: 20%
+* Final Examination : 30%
 
 <p>To get credit for each homework, you must complete the corresponding quiz on gauchospace which is based on the homework. This will count as your homework turn in and is the only way to get credit for your homework. You must bring the homework to lecture the day after it is due for in-class discussion.<br />
 Thus <strong>attendance is required</strong>, and <strong>reading the assigned readings is required.</strong></p>

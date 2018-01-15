@@ -3,8 +3,8 @@ layout: lab
 num: lab05
 ready: true
 desc: "Fun with shapes: Pointers"
-assigned: 2018-02-13 09:00:00.00-8
-due: 2018-02-20 23:59:00.00-8
+assigned: 2018-02-20 09:00:00.00-8
+due: 2018-02-26 23:59:00.00-8
 ---
 <div markdown="1">
 

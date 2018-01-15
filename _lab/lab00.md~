@@ -21,6 +21,7 @@ This lab must be completed INDIVIDUALLY. In the subsequent labs you are encourag
 
 * Take note of your course mentor and pair programming partner at  [mentor group](/info/mentor_groups/). Get to know your mentor:
 
+	* Read your [mentor's profile] (/info/staff/)
 	* Meet them during the open lab hours on Thursday or Friday. The exact time and location can be found at [lab and office hours schedule](/info/schedule/)
 	* Contact your mentor via Piazza or email to confirm your meeting in Week1. During your meeting, set up a time when you can regularly meet for the remainder of the quarter. Your mentor will send you feedback on your work to your umail account. Make sure your line of communication with your mentor is working and talk about any preferences you may have. Your mentor will be your first point of contact for the quarter!
 
@@ -310,18 +311,6 @@ As you progress in your Computer Science education and, subsequently, your caree
 
 		$ emacs <filename>
 
-	Go ahead and edit a file named "hello.cpp"
-
-	In the editor type a few comments on the first line as follows:
-	
-		// hello.cpp
-		// Your name
-		// Your perm number
-
-	Note that in C++, you can insert comments by preceding the comment with <code>//</code>
-
-	To save the file, press Ctrl-x, Ctrl-s. To exit emacs and return to the unix shell, press Ctrl-x, Ctrl-c
-
 	To learn how to use emacs, there is no substitute for PRACTICE!!! Of course, there are multiple online resources that you can look at (especially given emacs' popularity) and here are some of them:
 
 	* <a href="https://www.gnu.org/software/emacs/tour/" target="_blank">emacs tour from the GNU organization (makers of emacs)</a>
@@ -364,8 +353,6 @@ As you progress in your Computer Science education and, subsequently, your caree
 
 
 <hr>
-
-** We will go over the material for the  next few steps in lecture. For now just read the lab, attempt it but if you like, you may wait to complete the remaining steps after lecture **
 
 ## Step 5: Create and edit a file containing a C++ program <a name="step5"></a>
 

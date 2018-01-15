@@ -11,7 +11,7 @@ due: 2015-01-29 23:59:00.00-8
 
 ## Goals for this lab
 
-In this lab you will get practice with
+In this lab you will get practice 
 * for loops and while loops
 * nested loops
 * calculating a series using for loops and if-else statements
@@ -28,9 +28,10 @@ To complete the lab follow these steps in order:
 
 # Step by Step Instructions
 
-## Step 0: Check-in with your mentor
+## Step 0: Get to know your mentor
 
-* At the start of every lab, you and your partner should get together with your mentor group and mentor. We encourage you to sit next to your partner and near your mentor group. Your mentor will come to you, but if they don't do so in the first 5 minutes, raise your hand to get their attention. Your mentor will give you any initial instructions as required for the lab, guiding you on the key learning goals and any challenging aspects that you need to pay special attention to. They will also take your attendance for that lab. This is also a time when you will check in about your progress in the programming assignments. Make sure that you always have the latest version of your code pushed to github before your weekly check-in with your mentor.
+* Read your [mentor's profile](/info/staff/)
+* At the start of every lab, you and your partner should get together with your mentor group and mentor. We encourage you to sit next to your partner and near your mentor group. Your mentor will come to you, but if they don't do so in the first 5 minutes, raise your hand to get their attention. Your mentor will give you any initial instructions as required for the lab, guiding you on  key learning goals and any challenging aspects that you need to pay special attention to. They will also take your attendance for that lab. This is also a time when you will check in about your progress in the programming assignments. Make sure that you always have the latest version of your code pushed to github before your weekly check-in with your mentor.
 
 * If you have questions about pair programming, ask your mentor.
 
