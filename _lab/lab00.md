@@ -21,7 +21,7 @@ This lab must be completed INDIVIDUALLY. In the subsequent labs you are encourag
 
 * Take note of your course mentor and pair programming partner at  [mentor group](/info/mentor_groups/). Get to know your mentor:
 
-	* Meet them during the open lab hours on Thursday or Friday. The exact time and location can be found at [lab and office hours schedule](/info/schedule/)
+	* Meet them during the open lab hours on Monday or Friday. The exact time and location can be found at [lab and office hours schedule](/info/schedule/)
 	* Contact your mentor via Piazza or email to confirm your meeting in Week1. During your meeting, set up a time when you can regularly meet for the remainder of the quarter. Your mentor will send you feedback on your work to your umail account. Make sure your line of communication with your mentor is working and talk about any preferences you may have. Your mentor will be your first point of contact for the quarter!
 
 * Connect with your programming partner via email or in person and determine times when you can work together outside the prescribed lab hours. You will need to set aside 2 to 3 hours each week to work on assignments. Get your partner's contact: phone number or email.
@@ -516,7 +516,7 @@ If you have made it to this step, then you have successfully created a C++ progr
 
 * You will now create a git repo. The concept of a repo was explained in the article that you just read. New projects always start with this step. Since Github promotes "open source" projects, repos created under your default github account are *public*. This means that they are visible to everyone on the internet. However, for this class your assignments have to be "closed source", and not open to your classmates and others on the internet. This requires that you create *private* repos. These are repos that are only visible to you, your pair-partner and the instructional staff. You can only create private repos within our class organization on github: ucsb-cs16-w18. So, the next step is to join our class organization.
 
-* Read this article on [creating a github repo under an organization](https://ucsb-cs16.github.io/topics/github_com_create_private_repo_under_org/). Open a browser and navigate to our class organization on github: [ucsb-cs16-sp17](https://github.com/orgs/ucsb-cs16-sp17/dashboard). Click on the green button that says "New repository", and follow the steps from the ["creating a github repo under an organization"](https://ucsb-cs16.github.io/topics/github_com_create_private_repo_under_org/) article, to create a PRIVATE repo containing only a README.md and a .gitignore. See screenshot below:
+* Read this article on [creating a github repo under an organization](https://ucsb-cs16.github.io/topics/github_com_create_private_repo_under_org/). Open a browser and navigate to our class organization on github: [ucsb-cs16-w18](https://github.com/orgs/ucsb-cs16-w18/dashboard). Click on the green button that says "New repository", and follow the steps from the ["creating a github repo under an organization"](https://ucsb-cs16.github.io/topics/github_com_create_private_repo_under_org/) article, to create a PRIVATE repo containing only a README.md and a .gitignore. See screenshot below:
 
 ![new-repo](/lab/lab00/enter-org/pic5.png){:height="500px"}
 
@@ -527,7 +527,7 @@ Your repo name should be lab00_your-github-username. For example if your github 
 
 5. Use github's web interface to edit the README file. In the README, add your and your partners name and perm number. If you don't know how to do this yet, wait until I demonstrate it in the next lecture. You may proceed to the next step
 
-6. Upload your hello.cpp file. To do this step you should be physically present on a lab machine or in CSIL where you have access to a web browser and a local copy of your hello.cpp program. On your web browser, navigate to your repo on github. If your repo name is lab00_jgaucho, the link to the repo is: [https://github.com/ucsb-cs16-sp17/lab00_jgaucho](https://github.com/ucsb-cs16-sp17/lab00_jgaucho). Click on the "Upload files" button as shown below.
+6. Upload your hello.cpp file. To do this step you should be physically present on a lab machine or in CSIL where you have access to a web browser and a local copy of your hello.cpp program. On your web browser, navigate to your repo on github. If your repo name is lab00_jgaucho, the link to the repo is: [https://github.com/ucsb-cs16-w18/lab00_jgaucho](https://github.com/ucsb-cs16-w18/lab00_jgaucho). Click on the "Upload files" button as shown below.
 
 ![git-file-upload](/lab/lab00/git-repo-pic_ink-upload.jpg){:height="500px"}
 
