@@ -13,27 +13,30 @@ annotatedready: false
 
 # Topics
 
-## Getting our feet wet
-* What will you learn in CS 16?
-* Getting to know your peers, the instructor and staff!
-* We are running a new pilot program where undergraduate tutors will be assisting with instructional activities - we will introduce our tutors, be sure to reach out to them in labs and sections
+## Course logistics
 
-## Hardware abstractions
-* The modern digital computer - stored program model and the Von Neumann architecture, why are we talking about architecture?
-* The hardware/software interface
+Main takeaways:
+* Explore the course website and READ the syllabus
+* Get to know your mentor and ask about how to use Piazza for future communication
+* Ask questions about the course on Piazza (don't send emails to TAs and instructor)
+* If you email the instructor have [CS16] and a brief description of your question
 
-## Getting set up
-* Remote login to the CSIL servers
-* Finding your way around with basic unix commands - mkdir, ls, cp, mv, rm (use
-  with caution)
-* Choosing an editor (vim or emacs)- may the best editor win!
 
-## C++ basics - main, std i/o, if-else, variables
-* Basic elements of a C++ program introduced via the "hello world" program and the game of fizzbuzz!
+
+## Concepts
+
+* Structure of a C++ program
     * the main function
     * namepsaces and include directives
     * commenting your code
     * standard input, standard output and standard error with cin, cout, cerr
-* Unlike Python, you MUST "declare" variables on first appearance in any C++ program. We'll discuss what this means.
-* Compiling with g++
-* Running your program
+* The three stages of writing and executing C++ code: editing, compiling, (linking and) executing
+* Five components of a computer and why it matters
+* Compiling code with g++
+* Finding your way around with basic unix commands - mkdir, ls, cp, mv, rm (use
+  with caution)
+* Choosing an editor (vim or emacs)- may the best editor win!
+
+* If time permits (git)
+
+
