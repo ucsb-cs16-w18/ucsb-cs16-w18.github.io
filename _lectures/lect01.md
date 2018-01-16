@@ -5,7 +5,7 @@ desc: "Course overview, a gentle intro to C++ - Standard I/O"
 ready: true
 pdfurl: /lectures/CS16_Lecture1.pdf
 annotatedpdfurl: /lectures/CS16_Lecture1_ann.pdf
-annotatedready: true
+annotatedready: false
 ---
 # Code from lecture
 
