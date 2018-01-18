@@ -1,6 +1,6 @@
 ---
 num: "lect02"
-desc: "Variables and data types, evaluating C++ expressions, simple flow control- multiway and nested if-else"
+desc: "Git, Control Structures, I/O in programs"
 ready: true
 pdfurl:  /lectures/CS16_Lecture2.pdf
 annotatedpdfurl: /lectures/CS16_Lecture2_ann.pdf
@@ -13,10 +13,27 @@ lecture_date: 2018-01-18
 
 # Topics
 
+## Git
+* Basics - organization, repos
+* Using github's web interface
+	* creating a repo
+	* adding files to the repo
+	* adding collaborators to the repo
+	* updating files and viewing the version history
+* Show command line usage - but won't go into too much detail
+
+## Learn multiple important topics using a game of fizzbuzz
+
+* Simple input/output with cin, cout
+* Just fizz (using cin to get input, C++ variables)
+* The full game (nested and multiway if-else, boolean expressions)
+* Create the usage: ./fizzbuzz <number> (passing command line arguments)
+* Fizzbuzz in a loop (for loops), get loop limit from command line 
+
+
 ## Simple flow control structures- For and while loops
 * If else statements are DIFFERENT in C++ than in Python. We'll discuss.
 * Nested and multi-way if-else
-* Practice with a game of Fizzbuzz (using multiway if-else within loops)
 
 ## C++ variables and datatypes (contd)
 * Scope and lifetime of variables
