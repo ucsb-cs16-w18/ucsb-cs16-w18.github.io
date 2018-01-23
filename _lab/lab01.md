@@ -53,8 +53,9 @@ You are now ready to get the starter code.
 
 Copy the code from the instructor's account on the CSIL server into your local git directory. If your local git directory is lab01_alily_jgaucho issue the following command:
 
-  cp /cs/faculty/dimirza/cs16-sp17/labs/lab01/* ~/cs16/lab01/
-
+```
+$cp /cs/faculty/dimirza/cs16/labs/lab01/* ~/cs16/lab01/
+```
 After doing this command, if you cd into ~/cs16/lab01/ and use the ls command, you should see three .cpp files and a README:
 
 ```
@@ -258,7 +259,7 @@ Once you are satisfied that your programs are correct, it is time to submit them
 ### Joining the same group
 
 * Navigate to https://submit.cs.ucsb.edu
-* Go to CS16_s17_mirza
+* Go to CS16_w18_mirza
 * Click on the lab page. You will see a blue button named “Join Groups” on top of the page, Click on the button
 * Click on you and your partner’s name. Create group.
 
@@ -276,7 +277,7 @@ Note: Please remember that you must submit the programs to obtain any credit for
 You can alternatively submit your code from the command line (terminal) on any CS machine, including the Phelps lab machines or the CSIL server. You can use this method when logged in remotely or while on the csil machines. This is the preferred method of submitting
 
 Submit all the source files to this assignment by running the command:
-`~submit/submit -p 691 block.cpp min4.cpp pi.cpp`
+`~submit/submit -p 920 block.cpp min4.cpp pi.cp`
 (691 is from the lab link https://submit.cs.ucsb.edu/p/691/group )
 
 You can copy the URL shown in the output of the above and paste into a web browser to reach the submission result page.
