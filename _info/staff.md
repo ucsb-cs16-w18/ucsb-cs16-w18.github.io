@@ -77,9 +77,11 @@ The tutors will help with the labs and other instructional activities as part of
 
   <tr>
   <td>
-  <img src="/info/mentorPhotos/CS24-W18-Bryan-Wu.jpg" alt="Bryan-Wu" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b> Bryan Wu (Tutor)    </b>
-  <i> "Welcome to CS 24 everyone! I’m a second-year Computer Science (CS) major. I tutored for CS 8 Fall 2017, and I’m excited to return for another opportunity to directly support fellow coders! Additionally, I would be glad to be of assistance if any of you have questions about switching into the CS major in the College of Engineering. I came into UCSB as an Economics major and made the switch to CS at the end of the Spring quarter of my first year. The process of switching into CS was a challenging struggle that grew on me initially as a dreadful archenemy, but ended up as a very close friend of mine who polished my study and life skills. On a side note, I enjoy hanging around and sleeping in cafes, traveling, gaming, playing the piano, and taking pictures. Contact me on Piazza if you have any questions about CS, or just want to chat (no Game of Thrones spoilers)! " </i>
+  <img src="/info/mentorPhotos/CS16-W18-Barbara-Korycki.jpg" alt="Barbara-Korycki" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b> Barbara Korycki (Tutor)    </b>
+  <i> "Hi, my name is Barbara but my friends call me Barbs, or the occasional Babs. I’m a third year CS major and have been tutoring since last winter. As an intro-level course, CS16 is interesting to tutor because of the diversity in the students’ backgrounds, course-goals, majors, interests, etc. So this quarter I would like to focus on individualizing my approach in guiding my mentees; help P/NP non-majors grasp the basic foundational concepts, advise those who feel lost/confused/inadequate in their place in engineering (we’ve all been there), and challenge students who are more experienced and would like to take the course material to a more in-depth level. I also just came back from a semester abroad in Copenhagen if you would like advice on studying abroad as an engineer! 
+Feel free to reach out whenever over Piazza  :-)
+ " </i>
   </td>
   </tr>
   <tr>
@@ -93,37 +95,33 @@ The tutors will help with the labs and other instructional activities as part of
 
   <tr>
   <td>
-  <img src="/info/mentorPhotos/CS24-W18-Scott-DeMoney.jpg" alt="Scott-DeMoney" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b> Scott DeMoney (Tutor)    </b>
-  <i> "Hi everyone, my name is Scott DeMoney (but you can call me Scotty) and I’m excited to be mentoring for the first time for CS24! I’m a third year CS student, and also a 2017 and 2018 Amazon Software Development Engineer Intern. My hobbies outside of CS include hiking, photography, and cooking. Feel free to come to me with any questions about CS, interviewing, working in the industry, or anything else on your mind. You can reach me anytime at scottdemoney@umail.ucsb.edu " </i>
+  <img src="/info/mentorPhotos/CS16-W18-Yossi-Hertzberg.jpg" alt="Yossi" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b> Yossi Hertzberg (Tutor)    </b>
+  <i> "Hi! My name is Joseph, but everyone has always called me by my nickname, Yossi. I am a third year CS major and I am very excited to be one of your tutors for CS16. I worked as a tutor in high school as well, and I loved finding ways to make some of the same topics that I struggled with in a class less confusing for the next generation. I took CS16 during my freshman year here, so I hope to be able to help in this same way. I actually started at UCSB as a Mechanical Engineering major but found (eventually) that CS was much better for me, so I can help with many questions regarding major switching, especially into the CS department. Also, I love helping people see how to approach problems algorithmically in a way that a computer can understand, as this knowledge will help in all CS classes, and in any programming language. Outside of school, I love surfing, mountain biking, and playing with my two dogs. 
+Please do not hesitate to reach out to me with any questions on Piazza.
+ " </i>
   </td>
   </tr>
   <tr>
   <td>
-  <img src="/info/mentorPhotos/CS24-W18-Robert-Stosick.jpg" alt=" Robert	Stosick" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b>  Robert	Stosick (Tutor)    </b>
-  <i> "Hi there! My name is Robert, my pronouns are he/him/his. I am excited to be one of your mentors for CS 24. I am a senior here, studying Computer Engineering. This is my first time mentoring, but I have been very grateful for all of the TAs who have helped me throughout my time at UCSB, and I am excited to give back by having the opportunity to help you grow and develop your coding skills.
-
-  In CS 24 you will have the opportunity to continue honing your programming skills, develop new ones, and really begin to get into Computer Science in greater depth. It is of course important to learn the course material, but I believe it is equally important to develop good coding habits early on in your CS education, because long after the specific details of what you learned in CS 24 are fuzzy, you will keep using the skills you learned.
-
-  For non-CS majors, taking CS 24 will teach you coding skills that are valuable and give you a competitive advantage over peers who do not have these skills, and will give you a solid foundation in Computer Science (the same foundation that CS and CE majors receive) should you wish to continue learning to code in the future. With the rise of Big Data and the Internet of Things, knowing how to code is more valuable than ever in many fields.
-
-  I imagine that the course may be tough, especially so for students who may not have had much or any programming experience prior to CS 8 and CS 16, but I will do my best to guide you through the challenges. I was once in that boat, and I am confident that you will succeed too. I will do my best to help make your journey as smooth as possible.
-  I can also answer lots of questions about other CS classes here at UCSB. Please feel free to ask me questions, even if it seems like a silly question. I look forward to seeing you in lab." </i>
+  <img src="/info/mentorPhotos/CS16-W18-Jake-Bliss.jpg" alt=" Jake" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b>  Jake	Bliss (Tutor)    </b>
+  <i> "Hi! My name is Jake and I am a second year CS major. I am very excited to be a tutor because want to help you all succeed and continue to develop your computer science skills. C++ can be intimidating so I hope that you all become comfortable with the language during the course of this class CS16.  I spent the fall studying abroad in Hong Kong at Hong Kong University of Science of technology and I also switched into CS from a non-engineering major so if you have questions either of those processes feel free ask! Outside of school I am active in my fraternity, I like to play basketball and soccer and like to hike. Feel free to email me at zakarybliss@umail.ucsb.edu if you have any questions. I look forward to meeting all of you and hope we have a great quarter!" </i>
   </td>
   </tr>
   <tr>
   <td>
-  <img src="/info/mentorPhotos/CS24-W18-ClaudiaZeng.jpeg" alt="Claudia" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b> Claudia Zheng (Tutor) </b>
-  <i> "Hi everyone! I am Claudia." </i>
+  <img src="/info/mentorPhotos/CS16-W18-Vincent-La.jpg" alt="Vincent" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b> Vincent La (Tutor) </b>
+  <i> "Hello! My name is Vincent (but you can call me Vince) and I am looking forward to being your CS16 tutor. I enjoy teaching people new subjects, especially something as daunting as C++. In a world where computers become more important with every passing day, I think it is important that we understand how they work--and it’s even better if you can figure out how to talk to one. In addition to C++, I can also help with the other challenges of being a student--like how to work up the nerve to talk to those scary professors. Outside of school, I enjoy hiking, running, and following sports (mainly football and basketball). Lastly, feel free to email me at vincela9@gmail.com if you have any questions. You may occasionally catch me at a local coffee shop or in CSIL.
+" </i>
   </td>
   </tr>
   <tr>
   <td>
-  <img src="/info/mentorPhotos/CS24-W18-Abhishek-Bhattacharya.jpeg" alt=" Abhishek	Bhattacharya" height="200px" style="float: left; margin: 10px 10px 10px 10px;">
+  <img src="/info/mentorPhotos/CS16-W18-Dana-Nguyen.jpg" alt=" Dana" height="200px" style="float: left; margin: 10px 10px 10px 10px;">
   <b>  Abhishek	Bhattacharya (Tutor)    </b>
-  <i> "Hi! My name is  Abhishek, I am a 4th year CCS Computing and Biology double major. I am super excited to be one of the mentors for CS24. Here’s a little background about me:  In the last few years I have been lucky enough to have worked with leading scientists at Stanford, UCSF and UCSB to uncover the potential of big data in computational biology. My interests lie in deep learning precision interpretation of medical imaging for the clinics. I have been involved with a number of ongoing projects in skin and breast cancer quantitative image analysis. If any of you also like these topics or just want to chat, don’t hesitate to contact me on Piazza :) " </i>
+  <i> "Hello! I’m Dana, and I’m a third-year computer science student. I’m excited to be working with some of you in CS16. Because CS16 is a foundation computer science course, some topics can be challenging at first (I know it was for me!), but I’m here to help you get through it! Not only do I want to help you succeed in CS16, I also want to be a resource for you in terms of your CS pathway/career. In addition to being a CS student, I’m a researcher in the CS department and a past software engineer intern at NASA Ames Research Center. Outside of class, I love playing the ukulele and calligraphy.  If you have any questions about researching or internships or want advice in general, feel free to reach out with me at dananguyen@ucsb.edu. I look forward to meeting you! " </i>
   </td>
   </tr>
 
