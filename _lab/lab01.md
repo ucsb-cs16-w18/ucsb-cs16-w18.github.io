@@ -42,16 +42,19 @@ To complete the lab follow these steps in order:
 * If your partner shows up late, let your mentor know. Points will be deducted for students who don't show up on time. If you face difficulties with pair programming consult your mentor.
 
 
-## Step 1: Log on and create a directory for this lab
+## Step 1: Log on, and create a repo for this lab on github and create a local directory
 
 * Log into the pilot's CoE account on CSIL and open a terminal.
-* Under your cs16 directory, create a new directory named lab01 (refer to lab00 for instructions if you have forgotten how to do this)
+* Pilot log into github: www.github.com. Create a new repo for lab01 in our class organization: ucsb-cs16-w18. You should follow the instructions from lab00 to do this
+* While on github, navigate to your repo. Click on the "Settings" tab, then click on the "Collaborators and teams". Search for your partner under collaborators and add them. Log out of github.
+* Navigator, log into github and accept the invitation.
+* Under your cs16 directory, pilot create a new directory named lab01 (refer to lab00 for instructions if you have forgotten how to do this)
 
 You are now ready to get the starter code.
 
 ## Step 2: Getting the starter code  <a name="getstarter"></a>
 
-Copy the code from the instructor's account on the CSIL server into your local git directory. If your local git directory is lab01_alily_jgaucho issue the following command:
+Copy the code from the instructor's account on the CSIL server into your local lab01 directory by issuing the following command:
 
 ```
 $cp /cs/faculty/dimirza/cs16/labs/lab01/* ~/cs16/lab01/
@@ -135,6 +138,8 @@ Run your executable as follows to test it out.
 
 Remember to re-compile the relevant files after you make any changes to the C++ code.
 
+Upload your files to your repo on github using github's web interface.
+
 
 <hr>
 
@@ -204,6 +209,7 @@ cout.precision(3);         // Set the number of digits to display after the deci
 
 We recommend you complete the next section after the Wed(04/12) lecture because it involves functions and passing command line arguments to main, which we have not yet covered in class. Consider skipping over to the step "Submit your code". Make sure you check in with your mentor befor leaving the labs
 
+Upload your files to your repo on github using github's web interface.
 
 ### Calculate the minimum of 4 numbers
 
@@ -250,7 +256,8 @@ To compile your code use the g++ command as before.
 
 Run your executable with different inputs to test it out.
 
-<hr>
+Upload your files to your repo on github using github's web interface.
+
 
 ## Step 5: Submit your code<a name="submit"></a>
 
@@ -269,7 +276,7 @@ Note: Please remember that you must submit the programs to obtain any credit for
 
 *Submitting via the web interface*
 
-* Login at https://submit.cs.ucsb.edu, then navigate to “CS16_Mirza_s17” and click on “lab01”. Then click “Make Submission”, and make your submission. Remember to submit all of the .cpp files.
+* Login at https://submit.cs.ucsb.edu, then navigate to “CS16_Mirza_w18” and click on “lab01”. Then click “Make Submission”, and make your submission. Remember to submit all of the .cpp files.
 * Once you submit, you should see a page detailing your submission. The system will automatically grade your program and will show you the results on this page after a 1 minute delay.
 
 *Submitting via command line*
@@ -278,7 +285,7 @@ You can alternatively submit your code from the command line (terminal) on any C
 
 Submit all the source files to this assignment by running the command:
 `~submit/submit -p 920 block.cpp min4.cpp pi.cp`
-(691 is from the lab link https://submit.cs.ucsb.edu/p/691/group )
+(691 is from the lab link https://submit.cs.ucsb.edu/p/920/group )
 
 You can copy the URL shown in the output of the above and paste into a web browser to reach the submission result page.
 
