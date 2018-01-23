@@ -120,8 +120,22 @@ Please do not hesitate to reach out to me with any questions on Piazza.
   <tr>
   <td>
   <img src="/info/mentorPhotos/CS16-W18-Dana-Nguyen.jpg" alt=" Dana" height="200px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b>  Abhishek	Bhattacharya (Tutor)    </b>
+  <b>  Dana Nguyen (Tutor)    </b>
   <i> "Hello! I’m Dana, and I’m a third-year computer science student. I’m excited to be working with some of you in CS16. Because CS16 is a foundation computer science course, some topics can be challenging at first (I know it was for me!), but I’m here to help you get through it! Not only do I want to help you succeed in CS16, I also want to be a resource for you in terms of your CS pathway/career. In addition to being a CS student, I’m a researcher in the CS department and a past software engineer intern at NASA Ames Research Center. Outside of class, I love playing the ukulele and calligraphy.  If you have any questions about researching or internships or want advice in general, feel free to reach out with me at dananguyen@ucsb.edu. I look forward to meeting you! " </i>
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Carly-Larsson.jpg" alt=" Carly" height="200px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b>  Carly	Larsson (Tutor)    </b>
+  <i> "Salutations and welcome to CS 16. In the next nine weeks we will both be learning something new: I will be tutoring CS 16 for the first time, and you all will be taking CS 16. I hope we can work together, and get as much computer science knowledge into our brains as possible. Currently I’m a third year CCS CS student, also enrolled in the MS/BS program. I’m the Treasurer for the Society of Women Engineers (S.W.E) and would love to recruit some new computer scientists! This coming summer and last summer, I interned as a Software Engineer at Microsoft. If you have questions about computer science, CS 16, internships, or S.W.E. please reach out to me at carly@umail.ucsb.edu. " </i>
+  </td>
+  </tr>
+   <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Isaac-Mackey.jpg" alt=" Isaac" height="200px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b>  Isaac McKay (Tutor)    </b>
+  <i> "Hello, my name is Isaac. I am a graduate student in the computer science department and mentoring for CS 16 for the first time. I enjoy helping others learn, as teaching improves my own knowledge of a subject more than any other activity. " </i>
   </td>
   </tr>
 
