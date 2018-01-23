@@ -20,7 +20,7 @@ ready: true
     <td>
     <img src="/info/mentorPhotos/CS16-W18-Boyuan-Feng.jpg"  width="150px"  alt="Boyuan" style="float: left; margin: 10px 10px 10px 10px;">
     <b>Boyuan Feng (TA)</b>
-    <i> "" </i>
+    <i> "Hi! I’m Boyuan, a first year graduate student in CS department. It’s my pleasure to be your TA this quarter. In CS16, you can learn basic knowledge for C++, which is one of the most important programming language. If we describe operating system, compiler, database, and network as wheels, C++ is the material and skill that you can use to re-invent wheels. Through understanding how C++ works, you can gain a deep understanding of computer science and a solid fundament for the upper level courses. If you have any questions about computer science or college experience, please feel free to send email to me at boyuan@umail.ucsb.edu. " </i>
     </td>
 </tr>
 <tr>
