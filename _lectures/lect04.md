@@ -18,7 +18,9 @@ lecture_date: 2018-01-25
 * Formatted output with doubles: cout.setf()
 
 ## Practice with single for loops
-* Summing a series: Write a program that takes a parameter n as a command line arguments and computes the following" 
+* Summing a series: 
+
+**In class practice: Write a program that takes a parameter n as a command line arguments and computes the following:**
 
 ```
 1 + 1/2 + 1/3 + ....+ 1/n
@@ -37,12 +39,86 @@ Sum of the first 2 terms is: 1.500
 * Nested loops
 * ASCII Art with nested loops
 
-## Functions and funtion mechanics
+**In class practice: Write a program to draw a square of a given width**
+Example usage:
 
-* What happens when we make a function call
-* Variable scope and lifetime
-* Local vs. global variables
-* Drawing memory diagrams
-* Stack!
-* Passing parameters to programs/main()
-* Example programs taking input from command-line
+```
+$./drawSquare 
+Enter the width of the square: 5
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+```
+
+Complete the code below
+
+```
+#include <iostream>
+using namespace std;
+
+void drawSquare(int n); // Function to draw a square of side n
+
+int main(){
+  // Complete the code below:
+  
+  
+  cout<<"Enter the width of the square : "
+  cin>> num;
+  
+  
+}
+
+// Write the definition of a function drawSquare that takes one parameter
+void drawSquare(int n){
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
