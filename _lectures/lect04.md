@@ -35,16 +35,12 @@ cout<<j<<endl;
 ```
 1 + 1/2 + 1/3 + ....+ 1/n
 ```
-where n is the number of terms in the series.
-
-Sample run of the program is below:
+where n is the number of terms in the series. Sample run of the program is below:
 
 ```
 $./sumSeries 2
 Sum of the first 2 terms is: 1.500
 ```
-
-
 ## Nested Loops
 * Nested loops
 * ASCII Art with nested loops
@@ -61,7 +57,6 @@ Enter the width of the square: 5
 * * * * *
 * * * * *
 ```
-
 Complete the code below
 
 ```
