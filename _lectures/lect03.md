@@ -1,6 +1,6 @@
 ---
 num: "lect03"
-desc:  "Loops, functions, git, intro to lab01 "
+desc:  "For loops, functions, git, intro to lab01 "
 ready: true
 pdfurl: /lectures/CS16_Lecture3.pdf
 annotatedpdfurl: /lectures/CS16_Lecture3_ann.pdf
@@ -22,12 +22,10 @@ lecture_date: 2018-01-23
 * Intro to lab01
 * For loops are DIFFERENT in C++ than in Python. We'll discuss.
 * Simple accumulator
-* For, while and do-while loops - Discussion on when to use each
-* Nested loops
-* ASCII Art with nested loops
-If time permits - introduce functions
+* For loops, applied to a simple accumulator pattern (find sum of a series)
 * Basic abstraction in software: functions
-* C++ functions are different from Python functions
+* Function declaration, definition, and call
+* Formal and actual parameters, return type
 
 
 * Gentle intro to github: what is a repo, creating a repo,  cloning a repo to a local machine, syncing repos with git add, commit and push
