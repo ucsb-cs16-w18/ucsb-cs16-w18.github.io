@@ -21,7 +21,7 @@ lecture_date: 2018-01-25
 * Summing a series: Write a program that takes a parameter n as a command line arguments and computes the following" 
 
 ```
-1 + 1/2 + 1/3 + 1/n
+1 + 1/2 + 1/3 + ....+ 1/n
 ```
 where n is the number of terms in the series.
 
