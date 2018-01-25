@@ -1,6 +1,6 @@
 ---
 num: "lect03"
-desc:  "Nested loops, git, intro to lab01 "
+desc:  "Loops, functions, git, intro to lab01 "
 ready: true
 pdfurl: /lectures/CS16_Lecture3.pdf
 annotatedpdfurl: /lectures/CS16_Lecture3_ann.pdf
@@ -10,7 +10,7 @@ lecture_date: 2018-01-23
 
 
 # Code from lecture
-[https://github.com/ucsb-cs16-sp17/lectures/tree/master/0410](https://github.com/ucsb-cs16-sp17/lectures/tree/master/0410)
+[https://github.com/ucsb-cs16-w18/cs16-w18-lectures/tree/master/lec-03](https://github.com/ucsb-cs16-w18/cs16-w18-lectures/tree/master/lec-03)
 
 # Topics
 
