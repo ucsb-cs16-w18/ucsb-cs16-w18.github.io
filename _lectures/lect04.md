@@ -15,7 +15,17 @@ lecture_date: 2018-01-25
 ## Working with doubles
 * Evaluating expressions with mixed numeric types
 * Typecasting int to double 
-* Formatted output with doubles: cout.setf()
+* Formatted output with doubles:
+
+Comment each line of code. What is the output of the code?
+```
+int i = 10;
+double j = 1/static_cast<double>(i);
+cout.setf(ios::fixed);
+cout.setf(ios::showpoint);
+cout.precision(3);
+cout<<j<<endl;
+```
 
 ## Practice with single for loops
 * Summing a series: 
@@ -138,41 +148,3 @@ One of the powers of computing is being able to do a brute-force search for a so
 Horses cost $10, pigs cost $3, and rabbits are only $0.50. A farmer buys 100 animals for $100, How many of each animal did he buy?  
 
 Write a program to do this.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
