@@ -20,7 +20,7 @@ lecture_date: 2018-01-25
 ## Practice with single for loops
 * Summing a series: 
 
-**In class practice: Write a program that takes a parameter n as a command line arguments and computes the following:**
+**Exercise: Write a program that takes a parameter n as a command line arguments and computes the following:**
 
 ```
 1 + 1/2 + 1/3 + ....+ 1/n
@@ -39,7 +39,7 @@ Sum of the first 2 terms is: 1.500
 * Nested loops
 * ASCII Art with nested loops
 
-**In class practice: Write a program to draw a square of a given width**
+**Exercise: Write a program to draw a square of a given width**
 Example usage:
 
 ```
@@ -87,6 +87,55 @@ void drawSquare(int n){
 
 }
 ```
+
+**Exercise: Write a program to draw a triangle of a given width**
+Example usage:
+
+```
+$./drawTriangle
+Enter the width of the triangle: 5
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+```
+
+Complete the code below
+
+```
+#include <iostream>
+using namespace std;
+
+void drawTriangle(int n); // Function to draw a triangle of side n
+
+int main(){
+  // Complete the code below:
+  
+  
+  cout<<"Enter the width of the triangle : "
+  cin>> num;
+  
+  
+}
+
+// Which line of code do you need to modify
+void drawTriangle(int n){
+  for(int j = 0 ; j < n; j++){   //A
+    for(int i = 0 ; j < n; j++){ //B
+      cout<<"* ";  //C
+    }
+    cout<<endl;    //D
+  }
+  cout<<endl;      //E
+}
+
+```
+
+**Puzzle**
+
+
+
 
 
 
