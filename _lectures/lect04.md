@@ -12,9 +12,12 @@ lecture_date: 2018-01-25
 
 # Topics
 
+## Nested Loops
+* Nested loops
+* ASCII Art with nested loops
+
 ## Functions and funtion mechanics
-* Function declaration, definition, and call
-* Formal and actual parameters, return type
+
 * What happens when we make a function call
 * Variable scope and lifetime
 * Local vs. global variables
