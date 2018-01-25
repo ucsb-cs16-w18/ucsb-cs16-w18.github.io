@@ -9,8 +9,7 @@ lecture_date: 2018-01-25
 ---
 
 # Code from lecture
-
-# Topics
+[https://github.com/ucsb-cs16-w18/cs16-w18-lectures](https://github.com/ucsb-cs16-w18/cs16-w18-lectures)
 
 ## Working with doubles
 * Evaluating expressions with mixed numeric types
@@ -42,8 +41,8 @@ $./sumSeries 2
 Sum of the first 2 terms is: 1.500
 ```
 ## Nested Loops
-* Nested loops
-* ASCII Art with nested loops
+
+ASCII Art with nested loops
 
 **Exercise: Write a program to draw a square of a given width**
 Example usage:
@@ -71,8 +70,7 @@ int main(){
   
   cout<<"Enter the width of the square : "
   cin>> num;
-  
-  
+    
 }
 ```
 
