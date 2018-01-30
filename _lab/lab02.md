@@ -271,7 +271,7 @@ In general the parameters to the startT program are width, followed by height. Y
 When you think you have a correct implementation, try submitting to the submit.cs system.  You can submit just your starT.cpp program to see how far along you've gotten:
 
 ```
-~submit/submit -p 698 starT.cpp
+~submit/submit -p 922 starT.cpp 
 ```
 
 Note that this will show failures for <code>starC.cpp</code> and <code>starZ.cpp</code>, which are files that you'll be working on at a later step.
@@ -279,7 +279,7 @@ Note that this will show failures for <code>starC.cpp</code> and <code>starZ.cpp
 You could also just submit the "stubs" for those&mdash;though those will fail some or all of the tests:
 
 ```
-~submit/submit -p 698 starC.cpp starT.cpp starZ.cpp
+~submit/submit -p 922 starC.cpp starT.cpp starZ.cpp
 ```
 
 Either way, for now, concentrate only on the test failures that pertain to starT.cpp and try to address any problems you encounter.  If you fix these NOW before moving on to starC.cpp and/or starZ.cpp, you will likely have better success, because what you learn from fixing your mistakes will help you get those other parts solved more quickly and easily.
@@ -335,7 +335,7 @@ then, you are ready to try testing your code on the submit system.
 If you submit starC.cpp together with your starT.cpp program, your submit command will look like this:
 
 ```
-~submit/submit -p 698 starC.cpp starT.cpp
+~submit/submit -p 922 starC.cpp starT.cpp 
 ```
 
 (The order of the files doesn't matter&mdash;list starT.cpp first, or starC.cpp first, aand either way, the result is the same.)
@@ -402,7 +402,7 @@ And, if there is not exactly one parameter, there should be an appropriate "usag
 When you have a version that can pass its internal tests, try submitting it along with your starT.cpp and starC.cpp to the submit.cs system.  
 
 ```
-~submit/submit -p 698 starC.cpp starT.cpp starZ.cpp
+~submit/submit -p 922 starC.cpp starT.cpp starZ.cpp
 ```
 
 If there are errors reported, fix them.    
