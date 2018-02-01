@@ -61,14 +61,14 @@ In lab02,  we have done the same thing. So if you don't know to how to do that, 
 This step is aslo very similar to lab02, first open terminal and go to the directory where you cloned the starter code in lab02 and pull the latest version of the starter code.
 
 ```
-  cd ~/cs16/cs16-sp17-starter-code
+  cd ~/cs16/cs16-w18-starter-code
   git pull
 ```
 
 Copy the code from your starter code directory to your local lab03 repo using the following command, <strong>REMEMBER</strong> to change the directory name in the commands below to your own directory's name, in this lab we simply use lab03_agaucho_alily as a example for your local git directory:
 
 ```
-  cp ~/cs16/cs16-sp17-starter-code/lab03/* ~/cs16/lab03_agaucho_alily/
+  cp ~/cs16/cs16-w18-starter-code/lab03/* ~/cs16/lab03_agaucho_alily/
 ```
 
 After doing this command, if you cd into ~/cs16/lab03_agaucho_alily/ and use the ls command, you should see several .cpp files:
