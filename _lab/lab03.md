@@ -225,20 +225,20 @@ Usage: ./countDucks inputFile
 -bash-4.2$
 ```
 
-So run it again, the first time giving it animals01.txt as the filename, and the second time giving it animals02.txt as the filename:
+Implement the countDucks program in countDucks.cpp so that when you run the program with argument animals01.txt as the filename, it produces the following output:
 
 ```
 -bash-4.2$ ./countDucks animals01.txt
 There were 2 ducks in animals01.txt
+
+```
+
+Alternatively if you give animals02.txt as the argument it should produce the following output.
+```
 -bash-4.2$ ./countDucks animals02.txt
 There were 6 ducks in animals02.txt
 -bash-4.2$
 ```
-
-This code for countDucks.cpp is longer than what will fit on a single screen, so instead of using the "cat" program to list it on our terminal, I suggest opening it up in a editor to look at it.  To open with emacs, this would be <code> emacs countDucks.cpp</code>. To open with gvim type: <code> gvim countDucks.cpp</code>
-
-
-Read through the code, especially the comments, and try to understand what each line of code is doing.  We'll explain more about this code in lecture, but for now at least get the big picture of how the code works.
 
 Once you've done that, you are ready for the next step.
 
