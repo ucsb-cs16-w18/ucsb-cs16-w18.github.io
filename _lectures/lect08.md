@@ -1,6 +1,6 @@
 ---
 num: "lect08"
-desc: "Arrays, visualizing program dynamics, test-driven development, intro to lab04 "
+desc: "Data representation, arrays, intro to lab04 "
 ready: true
 pdfurl: /lectures/CS16_Lecture8.pdf
 annotatedpdfurl: /lectures/CS16_Lecture8_ann.pdf
@@ -12,6 +12,18 @@ lecture_date: 2018-02-08
 
 # Topics
 This lecture and many of the coming lectures require that we understand how our programs interact with computer memory. This is not required to understanding some of the programming constructs like arrays and pointers but is crucial for reasoning about weird program behavior and debugging. So, we will begin with a model of computer memory and then delve into C++ arrays and pointers
+
+## Data and number representation
+
+* Positional encoding: binary, hex, decimal
+* Internal vs. external representation
+* Conversion between different representations
+* Key ideas: bits can represent ANYTHING. With n bits we can represent at most 2^N things
+* Apply above rule to represent characters (ASCII), unicode, colors ....
+* What is signed vs unsigned integer representation
+* Signed representation used by modern computers: two's complement
+* The data type of a variable determines its representation in memory AND the number of bits used to store each variable
+* Model of memory
 
 ## C++ arrays
 * Intro to lab04
