@@ -297,9 +297,7 @@ Note that the submit.cs system may give you feedback on whether your code is cor
 
 ## Step 8: Turn in your code  <a name="step8"></a>
 
-Once you have joined the course, you should be able to submit your code by typing the sequence of commands shown below in a terminal window on CSIL:
-
-* Navigate to your ~/cs16/lab03_agaucho_alily directory, the one containing your code for this week's lab.
+Once you have joined the course, you should be able to submit your code by typing the sequence of commands shown below in a terminal window on CSIL:* Navigate to your ~/cs16/lab03_agaucho_alily directory, the one containing your code for this week's lab.
 <pre>
 -bash-4.2$ cd ~/cs16/lab03_agaucho_alily
 </pre>
@@ -316,10 +314,10 @@ animals02.txt  myProg01.cpp    myProg02.cpp  sample01.cpp
 
 * Use the following command to turn in your files:
 <pre>
--bash-4.2$ ~submit/submit -p 700 myProg01.cpp myProg02.cpp
+-bash-4.2$ ~submit/submit -p 923 myProg01.cpp myProg02.cpp
 </pre>
 
-The number 700 is the "project number" specfic to CS16 S17 lab03 for our class section.
+The number 923 is the "project number" specfic to CS16 W18 lab03 for our class section.
 
 ### What a successful turnin looks like
 
