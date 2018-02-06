@@ -18,7 +18,7 @@ lecture_date: 2018-02-06
 	* What is an execuatble 
 	* Steps in compilation
  	* Creating object files and linking programs with g++
-* Separate compilation with Makefiles
+* Separate compilation with Makefiles [read about Makefile](https://foo.cs.ucsb.edu/16wiki/index.php/C%2B%2B:_Separate_Compilation_and_Makefiles)
 * Types of compile-time errors. 
 * Linker errors
 * Header guards
