@@ -8,8 +8,8 @@ annotatedready: true
 lecture_date: 2018-02-01
 ---
 
-# Topics
-
+# Code from lecture
+[https://github.com/ucsb-cs16-w18/cs16-w18-lectures/tree/master/lec-06](https://github.com/ucsb-cs16-w18/cs16-w18-lectures/tree/master/lec-06)
 
 # Topics
 ## File I/O basics
