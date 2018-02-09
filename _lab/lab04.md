@@ -50,7 +50,7 @@ Be sure to commit and push or work to github at the end of EVERY work session. T
 This step is similar to lab02, first open terminal and go to the directory where you cloned the starter code in lab02 and pull the latest version of the starter code.
 
 ```
-  cd ~/cs16/cs16-sp17-starter-code
+  cd ~/cs16/cs16-w18-starter-code
   git pull
 ```
 Clone your github repo in the ~/cs16/ directory. Then cd into your repo directory.
@@ -60,7 +60,7 @@ Clone your github repo in the ~/cs16/ directory. Then cd into your repo director
 Copy the code from your starter code directory to your local lab04 repo using the following command.
 
 ```
-  cp ~/cs16/cs16-sp17-starter-code/lab04/* ./
+  cp ~/cs16/cs16-w18-starter-code/lab04/* ./
 ```
 
 Typing the list (ls) command should show you the following files in your current directory
@@ -356,7 +356,7 @@ At that point, you are ready to try submitting on the submit.cs system.
 For this lab, since there are a lot of files to upload to submit.cs, your best course is to type the following from the Linux/UNIX prompt, that is, from the command line (terminal) on any CS machine, including from your computer when you are remotely logged into a CS machine (via ssh):
 
 ```
-$ ~submit/submit -p 717 *.cpp *.h
+$ ~submit/submit -p 924 *.cpp *.h
 ```
 
 You can then copy the URL shown in the output of the above and paste into a web browser to reach the submission result page.
@@ -381,7 +381,7 @@ Points from automated submit.cs. system tests
 <b>Points assigned manually for coding style</b>
 
 (50 pts) Style:
-Good choice of variable names, code indented in ways that are consistent, and in line with good C++ practice. Where applicable, common code is factored out into functions (added to utility.h and utility.cpp as needed). Please see the feedback on lab02 for a detailed rubric on coding style.
+Good choice of variable names, code indented in ways that are consistent, and in line with good C++ practice. Where applicable, common code is factored out into functions (added to utility.h and utility.cpp as needed). 
 
 This last point may or may not arise, but if it does, utility.h and utility.cpp is a place where functions needed in multiple files can be put—prototypes in utility.h and function definitions in utility.cpp.
 
