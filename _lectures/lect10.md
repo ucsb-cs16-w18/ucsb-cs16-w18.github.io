@@ -11,9 +11,17 @@ lecture_date:  2018-02-15
 # Topics
 
 ## Code from lecture
+## Pointers
+
+* Pointer declaration - difference/similarities with declaring basic types
+* Accessing variables "indirectly" via pointers
+* The address and indirection operators: "&" and "*"
+* Pointers and arrays - similarities and dfferences
+* Passing arrays to functions - specifically looking at how arrays degnerate to pointers on function calls.
 
 
-## Intro to lab05
+
+
 ## Pointers and structs
 * Declaring structs
 * Different ways of accessing member variables of a structs
@@ -32,3 +40,6 @@ lecture_date:  2018-02-15
 * Program layout: text, data, bss, stack and heap
 * References as function formal arguments
 * More on the run-time stack
+
+
+## Intro to lab05
