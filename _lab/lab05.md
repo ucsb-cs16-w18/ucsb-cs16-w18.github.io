@@ -198,6 +198,16 @@ PASSED: pointToString(p2,5)
 
 Plus, some output at the end with the output of your boxToStringTest
 
+```
+./boxToStringTest
+PASSED: boxToString(b1,1)
+PASSED: boxToString(b1,2)
+PASSED: boxToString(b1,3)
+PASSED: boxToString(b1,4)
+PASSED: boxToString(b1,5)
+PASSED: boxToString(b1,6)
+-bash-4.2$
+```
 
 At that point, you are ready to try submitting on the submit.cs system.
 
