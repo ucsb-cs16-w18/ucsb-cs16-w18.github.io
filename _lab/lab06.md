@@ -76,7 +76,7 @@ Here is a list of your tasks for this lab:
 
 * Run "make tests"
 
-1. You will see that  and see the tests for arrayToString and linkedListToString pass.
+1. You will see that the tests for arrayToString and linkedListToString pass.
 2. But notice that tests for addIntToEndOfListTest and addIntToStartOfListTest are failing.
 
 Your job is to understand all of the skeleton code that is provided to you and then write the code for addIntToEndOfList and addIntToStartOfList.  Both are in linkedListFuncs.cpp. There are clues in the file to help you.
@@ -191,7 +191,7 @@ I would hope this would be obvious, but I have to say it so that there is no amb
 Here is the command to submit this week's labs:
 
 ```
-~submit/submit -p 733 *.cpp *.h
+~submit/submit -p 926 *.cpp *.h
 ```
 
 = Grading Rubric =
