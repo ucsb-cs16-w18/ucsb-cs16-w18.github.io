@@ -186,21 +186,23 @@ be comfortable with all of the following:</p>
         </ul>
   </li>
 
-<li><strong>(5) Exams</strong>&mdash;There are three exams in this course—one lab exam, one midterm and a final.</li>
+<li><strong>(5) Exams</strong>&mdash;There are two exams in this course—one midterm and a final. No Makeups will be given for the final exam. Please make sure that you have no conflicts with the final if you are taking this course</li>
 
-The lab exam
+
 <!--
 You may wonder why there are two midterms in a course that is only ten weeks long. The reason is that I've found that in order to succeed at learning the material in this course, many students need two opportunities for feedback on how they are doing before the final exam. Students sometimes are doing better than they think they are, or not as well as think they are, and the exams provide a &quot;reality check&quot;
 -->
 
-
-=== You may find the workload heavy ===
+<!--
+You may find the workload heavy
 
 The workload in this course may feel heavy. It may even feel unreasonable compared to your other courses.
 
 However, I assure you that it is not unreasonable, given the goal of making you an skilled beginning programmer. Programming is a skill, and the only way to get good at it is lots and lots of practice, which takes lots and lots of time.
 
 The usual &quot;folklore&quot; rule of thumb is 8–12 hours per week for a normal college class. That means you should expect, at a minimum to put in 5–9 hours per week on this course, on top of the 3 hours 20 minutes you spend in lecture and lab each week.
+
+-->
 
 </ul>
 
