@@ -4,7 +4,7 @@ num: lab06
 ready: true
 desc: "Linked lists and array lists"
 assigned: 2018-03-02 09:00:00.00-8
-due: 2018-03-12 23:59:00.00-8
+due: 2018-03-16 23:59:00.00-7
 ---
 
 # Goals of this lab
