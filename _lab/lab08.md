@@ -12,6 +12,23 @@ due: 2018-03-16 23:59:00.00-7
 # Goals of this lab
 This lab will have you do programming exercises with C strings, string class objects, recursive functions, and Makefiles. You will also get more practice writing programs from scratch with little skeleton code.
 
+# Step 0: Complete the TA/Mentor evaluations
+This lab must be completed individually.
+
+As you may know, we ran a pilot mentor program this quarter.
+We would like to get your feedback about the program to help us keep the aspects that worked well and identify areas for improvement.
+
+Completing the survey carries course credit (1% of your overall grade), so please be sure to complete it. Although we ask that you provide your perm number in the survey, this is only so that we can give you credit for completing the survey. The survey is otherwise anonymous
+
+
+Here is the link to the survey:
+[Please click on this link to complete](https://goo.gl/forms/ifnnqRrZfa506y6g2)
+
+You may use the following document to identify the mentors:
+
+![Tutors](/lab/lab09/Spring2017-mentors/Slide1.PNG){:height="500px"}
+
+![TAs](/lab/lab09/Spring2017-mentors/Slide2.PNG){:height="500px"}
 
 # Step 1: Getting Started
 
