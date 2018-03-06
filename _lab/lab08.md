@@ -24,11 +24,97 @@ Completing the survey carries course credit (1% of your overall grade), so pleas
 Here is the link to the survey:
 [Please click on this link to complete](https://goo.gl/forms/ifnnqRrZfa506y6g2)
 
-You may use the following document to identify the mentors:
+## CS 16 Mentor profiles
 
-![Tutors](/lab/lab09/Spring2017-mentors/Slide1.PNG){:height="500px"}
+<table style="width:100%">
 
-![TAs](/lab/lab09/Spring2017-mentors/Slide2.PNG){:height="500px"}
+  <tr>
+    <td>
+    <img src="/info/mentorPhotos/CS16-W18-Boyuan-Feng.jpg"  width="150px"  alt="Boyuan" style="float: left; margin: 10px 10px 10px 10px;">
+    <b>Boyuan Feng (TA)</b>
+    </td>
+</tr>
+<tr>
+
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Zhiyu-Chen.jpg" alt="Zhiyu" alt="Image" width="150px" style="float: left; margin: 5px 10px 10px 10px;">
+  <b> Zhiyu (Zoe) Chen (TA) </b>
+  </td>
+  </tr>
+  <tr>
+
+  <td>
+    <img src="/info/mentorPhotos/CS16-W18-Taylor-McCreary.jpg" alt="Taylor" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+    <b> Taylor McCreary (Tutor)   </b>
+    </td>
+    </tr>
+    <tr>
+
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Sato-Koa.jpg" alt="Koa" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b> Sato Koa(Tutor)  </b>
+  </td>
+  </tr>
+
+  <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Ben-Zhu.jpg" alt="Ben" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b> Ben Zhu (Tutor)    </b>
+  </td>
+  </tr>
+
+  <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Barbara-Korycki.jpg" alt="Barbara-Korycki" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b> Barbara Korycki (Tutor)    </b>
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Madhu-Kannan.jpg" alt="Madhu" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b>  Madhu Kannan (Tutor)    </b>
+  </td>
+  </tr>
+
+  <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Yossi-Hertzberg.jpg" alt="Yossi" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b> Yossi Hertzberg (Tutor)    </b>
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Jake-Bliss.jpg" alt=" Jake" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b>  Jake	Bliss (Tutor)    </b>
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Vincent-La.jpg" alt="Vincent" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
+  <b> Vincent La (Tutor) </b>
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Dana-Nguyen.jpg" alt=" Dana"  width="150px"  style="float: left; margin: 10px 10px 10px 10px;">
+  <b>  Dana Nguyen (Tutor)    </b>
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Carly-Larsson.jpg" alt=" Carly"  width="150px"  style="float: left; margin: 10px 10px 10px 10px;">
+  <b>  Carly	Larsson (Tutor)    </b>
+  </td>
+  </tr>
+   <tr>
+  <td>
+  <img src="/info/mentorPhotos/CS16-W18-Isaac-Mackey.jpg" alt=" Isaac"  width="150px"  style="float: left; margin: 10px 10px 10px 10px;">
+  <b>  Isaac McKay (Tutor)    </b>
+  </td>
+  </tr>
+
+
+</table>
 
 # Step 1: Getting Started
 
