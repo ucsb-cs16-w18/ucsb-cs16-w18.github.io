@@ -1,6 +1,6 @@
 ---
 num: "lect14"
-desc: "Recursion, strings"
+desc: "More on linked-lists"
 ready: true
 pdfurl: /lectures/CS16_Lecture14.pdf
 annotatedpdfurl: /lectures/CS16_Lecture14_ann.pdf

@@ -1,6 +1,6 @@
 ---
 num: "lect13"
-desc: "Dynamic memory allocation and intro to linked lists"
+desc: "Linked lists"
 ready: true
 pdfurl: /lectures/CS16_Lecture13.pdf
 annotatedpdfurl: /lectures/CS16_Lecture13_ann.pdf
