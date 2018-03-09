@@ -143,7 +143,7 @@ Note: Remember to push your work to github at the end of EVERY work session. Tha
 This step is similar to lab02, first open terminal and go to the directory where you cloned the starter code in lab02 and pull the latest version of the starter code.
 
 ```
-  cd ~/cs16/cs16-sp17-starter-code
+  cd ~/cs16/cs16-w18-starter-code
   git pull
 ```
 Clone your github repo in the ~/cs16/ directory. Then cd into your repo directory.
@@ -153,7 +153,7 @@ Clone your github repo in the ~/cs16/ directory. Then cd into your repo director
 Copy the code from your starter code directory to your local lab08 repo using the following command.
 
 ```
-  cp ~/cs16/cs16-sp17-starter-code/lab08/* ./
+  cp ~/cs16/cs16-w18-starter-code/lab08/* ./
 ```
 
 This lab will have you write four functions that are specified in strFuncs.h. You must implement these functions in strFuncs.cpp. You must follow the instructions carefully. It is not enough to pass the submit.cs check as the instructor and the TAs *will* be checking your submitted program files for style.
