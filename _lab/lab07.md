@@ -409,7 +409,7 @@ At that point, you are ready to try submitting on the submit.cs system.
 Here is the command to submit this week's labs:
 
 ```
-~submit/submit -p 741 *.cpp *.h
+~submit/submit -p 927 *.cpp *.h
 ```
 
 # Grading Rubric
