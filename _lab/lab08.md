@@ -24,6 +24,7 @@ Here is the link to the survey:
 You may use the following webpage to identify the mentors should you need it to answer the final question on the survey:
 [https://ucsb-cs16-w18.github.io/info/staff/](https://ucsb-cs16-w18.github.io/info/staff/)
 
+To get credit show the final screen of the completed survey to your mentor.
 
 # Step 1: Getting Started
 
@@ -107,6 +108,7 @@ Here is the command to submit this week's labs:
 
 ```
 ~submit/submit -p 928 strFuncs.cpp strFuncs.h tddFuncs.cpp tddFuncs.h
+```
 
 ## Step 4: Check your submission results
 
