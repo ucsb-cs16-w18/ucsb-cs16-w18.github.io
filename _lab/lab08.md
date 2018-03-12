@@ -13,108 +13,17 @@ due: 2018-03-16 23:59:00.00-7
 This lab will have you do programming exercises with C strings, string class objects, recursive functions, and Makefiles. You will also get more practice writing programs from scratch with little skeleton code.
 
 # Step 0: Complete the TA/Mentor evaluations
-This lab must be completed individually.
-
 As you may know, we ran a pilot mentor program this quarter.
 We would like to get your feedback about the program to help us keep the aspects that worked well and identify areas for improvement.
 
-Completing the survey carries course credit (1% of your overall grade), so please be sure to complete it. Although we ask that you provide your perm number in the survey, this is only so that we can give you credit for completing the survey. The survey is otherwise anonymous
-
+Completing the survey carries course credit (1% of your overall grade), so please be sure to complete it. This is an anonymous survey. To get credit please show the final screen  to the instructor TA/tutor
 
 Here is the link to the survey:
-[Please click on this link to complete](https://goo.gl/forms/ifnnqRrZfa506y6g2)
+[Please click on this link to complete](https://goo.gl/forms/eIlG8dsXjWbjsAF23)
 
-## CS 16 Mentor profiles
+You may use the following webpage to identify the mentors should you need it to answer the final question on the survey:
+[https://ucsb-cs16-w18.github.io/info/staff/](https://ucsb-cs16-w18.github.io/info/staff/)
 
-<table style="width:100%">
-
-  <tr>
-    <td>
-    <img src="/info/mentorPhotos/CS16-W18-Boyuan-Feng.jpg"  width="150px"  alt="Boyuan" style="float: left; margin: 10px 10px 10px 10px;">
-    <b>Boyuan Feng (TA)</b>
-    </td>
-</tr>
-<tr>
-
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Zhiyu-Chen.jpg" alt="Zhiyu" alt="Image" width="150px" style="float: left; margin: 5px 10px 10px 10px;">
-  <b> Zhiyu (Zoe) Chen (TA) </b>
-  </td>
-  </tr>
-  <tr>
-
-  <td>
-    <img src="/info/mentorPhotos/CS16-W18-Taylor-McCreary.jpg" alt="Taylor" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-    <b> Taylor McCreary (Tutor)   </b>
-    </td>
-    </tr>
-    <tr>
-
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Sato-Koa.jpg" alt="Koa" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b> Sato Koa(Tutor)  </b>
-  </td>
-  </tr>
-
-  <tr>
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Ben-Zhu.jpg" alt="Ben" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b> Ben Zhu (Tutor)    </b>
-  </td>
-  </tr>
-
-  <tr>
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Barbara-Korycki.jpg" alt="Barbara-Korycki" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b> Barbara Korycki (Tutor)    </b>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Madhu-Kannan.jpg" alt="Madhu" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b>  Madhu Kannan (Tutor)    </b>
-  </td>
-  </tr>
-
-  <tr>
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Yossi-Hertzberg.jpg" alt="Yossi" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b> Yossi Hertzberg (Tutor)    </b>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Jake-Bliss.jpg" alt=" Jake" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b>  Jake	Bliss (Tutor)    </b>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Vincent-La.jpg" alt="Vincent" width="150px" style="float: left; margin: 10px 10px 10px 10px;">
-  <b> Vincent La (Tutor) </b>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Dana-Nguyen.jpg" alt=" Dana"  width="150px"  style="float: left; margin: 10px 10px 10px 10px;">
-  <b>  Dana Nguyen (Tutor)    </b>
-  </td>
-  </tr>
-  <tr>
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Carly-Larsson.jpg" alt=" Carly"  width="150px"  style="float: left; margin: 10px 10px 10px 10px;">
-  <b>  Carly	Larsson (Tutor)    </b>
-  </td>
-  </tr>
-   <tr>
-  <td>
-  <img src="/info/mentorPhotos/CS16-W18-Isaac-Mackey.jpg" alt=" Isaac"  width="150px"  style="float: left; margin: 10px 10px 10px 10px;">
-  <b>  Isaac McKay (Tutor)    </b>
-  </td>
-  </tr>
-
-
-</table>
 
 # Step 1: Getting Started
 
@@ -197,7 +106,7 @@ Push all your code to github. Then submit your code on submit.cs
 Here is the command to submit this week's labs:
 
 ```
-~submit/submit -p 750 strFuncs.cpp strFuncs.h tddFuncs.cpp tddFuncs.h
+~submit/submit -p 928 strFuncs.cpp strFuncs.h tddFuncs.cpp tddFuncs.h
 
 ## Step 4: Check your submission results
 
