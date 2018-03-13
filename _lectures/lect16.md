@@ -2,8 +2,8 @@
 num: "lect16"
 desc: "Recursion: advanced problems on linked-lists"
 ready: true
-pdfurl: /lectures/CS16_Lecture17.pdf
-annotatedpdfurl: /lectures/CS16_Lecture17_ann.pdf
+pdfurl: /lectures/CS16_Lecture16.pdf
+annotatedpdfurl: /lectures/CS16_Lecture16_ann.pdf
 annotatedready: true
 lecture_date: 2018-03-13
 ---
