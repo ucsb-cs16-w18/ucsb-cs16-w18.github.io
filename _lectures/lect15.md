@@ -2,8 +2,8 @@
 num: "lect15"
 desc: "Strings"
 ready: true
-pdfurl: /lectures/CS16_Lecture16.pdf
-annotatedpdfurl: /lectures/CS16_Lecture16_ann.pdf
+pdfurl: /lectures/CS16_Lecture15.pdf
+annotatedpdfurl: /lectures/CS16_Lecture15_ann.pdf
 annotatedready: true
 lecture_date: 2018-03-08
 
