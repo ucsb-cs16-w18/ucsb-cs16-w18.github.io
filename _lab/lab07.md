@@ -144,7 +144,35 @@ Proceed as you did for the four mafTest1.cpp through mafTest4.cpp files.
 | mllfTest6.cpp| make mllfTest6| ./mllfTest6| <code>deleteNodeIteratively; deleteNodeRecursively</code>  from moreLinkedListFuncs.cpp
 | mllfTest7.cpp| make mllfTest7| ./mllfTest7| <code>insertNodeToSortedList</code>  from moreLinkedListFuncs.cpp
 
-Note: current output of mllfTest6 and mllfTest7 are INCORRECT. You should first write your own test code and implement the functions (deleteNodeIteratively, deleteNodeRecursivelyHelper; insertNodeToSortedList) in moreLinkedListFuncs.cpp to make them work correctly! We will test your code using our own test cases, so don't try to hard code it! Note that these functions are more challenging than the other functions in this lab, so think them through carefully before you start coding.
+Note: current output of mllfTest6 and mllfTest7 are INCORRECT. You should first write your own test code and implement the functions (deleteNodeIteratively, deleteNodeRecursivelyHelper; insertNodeToSortedList) in moreLinkedListFuncs.cpp to make them work correctly! See next section for instructions
+
+## Step 3e:
+
+Add the following function declarations to <code>moreLinkedListFuncs.h</code>. Then add test code in mllfTesr6.cpp to test the first two functions. Add test code in mllfTest7.cpp to test <code>insertNodeToSortedList</code>. Finally implement all three functions in moreLinkedListFuncs.cpp as described below:
+
+```
+// list: ptr to a linked list of Node (each with int data, and Node * next)
+// value: int value of the node to delete
+// Delete the Node with the given value in a recursive way. 
+// Use a helper function that performs the recursion
+
+void deleteNodeRecursively(LinkedList * list, int value);
+
+// list: ptr to a linked list of Node (each with int data, and Node * next)
+// value: int value of the node to delete
+// Delete the Node with the given value using loops. 
+
+void deleteNodeIteratively(LinkedList * list, int value);
+
+// list: ptr to a linked list of Node (each with int data, and Node * next)
+// Nodes in the linked list are expected to be in sorted ascending order
+// value: int value of the node to insert
+// Insert a new node in the linked list with the given value at the right spot
+// The final linked list should have all its nodes in sorted ascending order
+void insertNodeToSortedList(LinkedList * list, int value);
+```
+
+ We will test your code for these functions our own test cases, so don't try to hard code it! Note that these functions are more challenging than the other functions in this lab, so think them through carefully before you start coding.
 
 ## Step 4: Checking your work before submitting
 
