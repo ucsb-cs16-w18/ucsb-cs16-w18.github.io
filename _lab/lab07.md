@@ -153,14 +153,14 @@ Add the following function declarations to <code>moreLinkedListFuncs.h</code>. T
 ```
 // list: ptr to a linked list of Node (each with int data, and Node * next)
 // value: int value of the node to delete
-// Delete the Node with the given value in a recursive way. 
+// Delete all instances of Nodes with the given value in a recursive way. 
 // Use a helper function that performs the recursion
 
 void deleteNodeRecursively(LinkedList * list, int value);
 
 // list: ptr to a linked list of Node (each with int data, and Node * next)
 // value: int value of the node to delete
-// Delete the Node with the given value using loops. 
+// Delete the instances of all Node with the given value using loops. 
 
 void deleteNodeIteratively(LinkedList * list, int value);
 
@@ -169,6 +169,8 @@ void deleteNodeIteratively(LinkedList * list, int value);
 // value: int value of the node to insert
 // Insert a new node in the linked list with the given value at the right spot
 // The final linked list should have all its nodes in sorted ascending order
+// Your implmentation should allow duplicate values in the list
+
 void insertNodeToSortedList(LinkedList * list, int value);
 ```
 
