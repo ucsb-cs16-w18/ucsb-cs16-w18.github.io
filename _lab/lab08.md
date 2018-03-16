@@ -4,7 +4,7 @@ num: lab08
 ready: true
 desc: "Anagrams, palindromes: Strings and recursion"
 assigned: 2018-03-13 09:00:00.00-8
-due: 2018-03-16 23:59:00.00-7
+due: 2018-03-19 23:59:00.00-7
 ---
 <div markdown="1">
 
